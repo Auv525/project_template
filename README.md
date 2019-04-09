@@ -1,2 +1,2 @@
 # project_template
-This is a project with template structure.
+This is a template project with MVC structure.
